@@ -6,10 +6,8 @@ randomjs
 <hr>
 ## Simple example
     
-
-        randomInteger : function (min, max) {
-           return Math.floor(Math.random() * (max - min + 1) + min);
-        } , 
+     //generate a random Integer between 5 and 170
+      randomjs.randomInteger(5,170) ;
    
 ## Want to contribute 
 Fork us ! ;)
