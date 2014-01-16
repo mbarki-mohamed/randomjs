@@ -1,6 +1,6 @@
 randomjs
 ========
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=YOUR_FLATTR_USERNAME&url=YOUR_HTTP_GITHUB_REPO_URL&title=YOUR_GH_PROJECT_TITLE&language=GH_PROJECT_PROG_LANGUAGE&tags=github&category=software)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=mbarki-mohamed&url=https://github.com/mbarki-mohamed/randomjs&title=randomjs&language=GH_PROJECT_PROG_LANGUAGE&tags=github&category=software)
 
 **randomjs** is a small javascript library to manipulate random numbers and strings.
 
