@@ -5,7 +5,12 @@ randomjs
 
 <hr>
 ## Simple example
+    
 
+        randomInteger : function (min, max) {
+           return Math.floor(Math.random() * (max - min + 1) + min);
+        } , 
+   
 ## Want to contribute 
 Fork us ! ;)
 
