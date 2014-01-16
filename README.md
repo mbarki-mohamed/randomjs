@@ -6,8 +6,12 @@ randomjs
 <hr>
 ## Simple example
     
-     //generate a random Integer between 5 and 170
+      // generate a random Integer between 5 and 170
       randomjs.randomInteger(5,170) ;
+      
+      // generate a 200 characters random string that contain numbers
+      randomjs.randomString(200,true) ; 
+      
    
 ## Want to contribute 
 Fork us ! ;)
