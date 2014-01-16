@@ -1,7 +1,7 @@
 randomjs
 ========
 
-**randomjs** is a small javascript library to manipulate random objects , it's a powerful and easy to use library to generate strings and numbers .
+**randomjs** is a small javascript library to manipulate random numbers and strings.
 
 <hr>
 ## Simple example
