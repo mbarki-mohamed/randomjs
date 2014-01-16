@@ -4,6 +4,11 @@ randomjs
 **randomjs** is a small javascript library to manipulate random numbers and strings.
 
 <hr>
+
+### Installation
+Download the full or the minified version of randomjs and include it to your Html file : 
+
+       <script src="randomjs.js"></script>
 ## Simple example
     
       // generate a random Integer between 5 and 170
