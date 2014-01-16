@@ -12,6 +12,9 @@ randomjs
       // generate a 200 characters random string that contain numbers
       randomjs.randomString(200,true) ; 
       
+      // generate a 50 characters random string without numbers
+      randomjs.randomString(50,false) ; 
+      
    
 ## Want to contribute 
 Fork us ! ;)
