@@ -5,8 +5,9 @@
 (function (){
 
    'use strict' ; 
+   
+   
     var max, min ; 
-
     var randomjs =
     { 
       /**
